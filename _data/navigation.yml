@@ -1,11 +1,3 @@
 main:
-  - title: "Home"
-    url: /about/
-  - title: "Weekly Schedule"
-    url: /categories/
-  - title: "Special Events"
-    url: /tags/
-  - title: "Directions"
-    url: /about/
   - title: "About"
     url: /about/
