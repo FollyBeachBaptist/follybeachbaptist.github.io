@@ -1,6 +1,6 @@
 main:
   - title: "Home"
-    url: /posts/
+    url: /about/
   - title: "Weekly Schedule"
     url: /categories/
   - title: "Special Events"
