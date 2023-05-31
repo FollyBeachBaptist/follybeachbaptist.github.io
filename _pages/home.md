@@ -1,5 +1,5 @@
 ---
-permalink: /home/
+permalink: /
 redirect_from: /
 title: "Home"
 ---
