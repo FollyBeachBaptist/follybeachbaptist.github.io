@@ -1,7 +1,7 @@
 ---
 redirect_from: /
-permalink: 
-title: "Home"
+permalink: /home/
+title: "Welcome"
 ---
 
 Welcome!
