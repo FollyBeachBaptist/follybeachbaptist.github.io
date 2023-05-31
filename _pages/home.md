@@ -1,6 +1,6 @@
 ---
 redirect_from: /
-permalink: /home/
+permalink: /welcome/
 title: "Welcome"
 ---
 
