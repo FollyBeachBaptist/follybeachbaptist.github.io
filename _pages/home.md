@@ -1,6 +1,6 @@
 ---
 redirect_from: /
-permalink: /
+permalink: 
 title: "Home"
 ---
 
