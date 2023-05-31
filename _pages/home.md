@@ -2,7 +2,6 @@
 redirect_from: /
 permalink: /home/
 title: "Welcome"
-layout: no-title-post
 ---
 
 Thank you for visiting our site.
