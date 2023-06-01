@@ -4,34 +4,19 @@ permalink: /about/
 author_profile: true
 ---
 
-### Rev. Clark Carter - Senior Pastor
+<b>Rev. Clark Carter - Senior Pastor</b><br> 843-478-6779 (cell)<br>pastor@follybeachbaptist.com
 
-843-478-6779 (cell)<br>pastor@follybeachbaptist.com
+<b> Rev. Richard Summey - Pastor Emeritus/Music Director</b><br> 843-793-8623
+(cell)<br>richard.summey@yahoo.com
 
-### Rev. Richard Summey - Pastor Emeritus/Music Director
+<b> Youth Pastor Billy Smith</b><br> 843-460-7737 (cell)
 
-843-793-8623 (cell)<br>richard.summey@yahoo.com
+<b> Deacon Chair George Willis</b><br> 843-906-4175 (cell)
 
-### Youth Pastor Billy Smith
+<b> Office Administrator Donna Bolus</b><br> 843-588-9414 (office)
 
-843-460-7737 (cell)
+<b> Audio Visual Team</b><br> Matt Beasley and Sandy Kisamore
 
-### Deacon Chair George Willis
+<b> Pianist</b><br> Debbie Summey
 
-843-906-4175 (cell)
-
-### Office Administrator Donna Bolus
-
-843-588-9414 (office)
-
-### Audio Visual Team
-
-Matt Beasley and Sandy Kisamore
-
-### Pianist
-
-Debbie Summey
-
-### Treasurer
-
-Marie Schultz
+<b> Treasurer</b><br> Marie Schultz
