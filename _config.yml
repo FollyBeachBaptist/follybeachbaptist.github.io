@@ -33,6 +33,7 @@ author:
   name   : "Service Times"
  # avatar : "/assets/images/bio-photo.jpg"
   bio: "Sunday School 9:45am Sunday Mornings 11:00am Sunday Evenings - Check Our Schedule and Events Pages"
+  location: "Folly Beach, SC"
   links:
     - label: "Facebook"
       icon: "fab fa-facebook-f"
