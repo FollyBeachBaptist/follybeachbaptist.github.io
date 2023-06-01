@@ -41,7 +41,7 @@ author:
       icon: "fa-solid fa-hand-holding-dollar"
       url: "https://secure.myvanco.com/L-Z0TS/home"
     - label: "Facebook"
-      icon: "fab fa-fw fa-facebook"
+      icon: "fa-brands fa-facebook-f"
       url: "https://facebook.com/"
 
 footer:
@@ -50,7 +50,7 @@ footer:
       icon: "fa-solid fa-hand-holding-dollar"
       url: "https://secure.myvanco.com/L-Z0TS/home"
     - label: "Facebook"
-      icon: "fab fa-fw fa-facebook"
+      icon: "fa-brands fa-facebook-f"
       url: "https://facebook.com/"
 
 defaults:
