@@ -40,6 +40,9 @@ author:
     - label: "Facebook"
       icon: "fab fa-facebook-f"
       url: "https://facebook.com/"
+      - label: "Give Online"
+      icon: "fa-solid fa-hand-holding-dollar"
+      url: "https://facebook.com/"
 
 footer:
   links:
