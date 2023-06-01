@@ -1,3 +1,5 @@
 main:
+  - title: "Weekly Schedule"
+    url: /weeklyschedule/
   - title: "About"
     url: /about/
