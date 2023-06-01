@@ -18,9 +18,6 @@ whitelist:
  
 # Outputting
 permalink: /
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-location: Folly Beach, SC
-
 include:
   - _pages
 
@@ -35,13 +32,10 @@ plugins:
 author:
   name   : "Service Times"
  # avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Sunday School 9:45am Sunday Mornings 11:00am Sunday Evenings - Check Our Schedule and Events Pages"
+  bio    : "Sunday School 9:45am Sunday Mornings 11:00am Sunday Evenings - Check Our Schedule and Events Pages <a href="your-link">👔 LinkedIn</a>"
   links:
     - label: "Facebook"
       icon: "fab fa-facebook-f"
-      url: "https://facebook.com/"
-      - label: "Facebook"
-      icon: "fab fa-usd"
       url: "https://facebook.com/"
 
 footer:
