@@ -37,12 +37,18 @@ author:
  # avatar : "/assets/images/bio-photo.jpg"
   bio    : "Sunday School 9:45am Sunday Mornings 11:00am Sunday Evenings - Check Our Schedule and Events Pages"
   links:
+      - label: "Donate"
+      icon: "fa-solid fa-hand-holding-dollar"
+      url: "https://secure.myvanco.com/L-Z0TS/home"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://facebook.com/"
 
 footer:
   links:
+    - label: "Donate"
+      icon: "fa-solid fa-hand-holding-dollar"
+      url: "https://secure.myvanco.com/L-Z0TS/home"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://facebook.com/"
