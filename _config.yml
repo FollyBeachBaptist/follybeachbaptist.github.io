@@ -41,7 +41,7 @@ author:
       icon: "fab fa-facebook-f"
       url: "https://facebook.com/"
       - label: "Facebook"
-      icon: "fa fa-usd"
+      icon: "fab fa-usd"
       url: "https://facebook.com/"
 
 footer:
