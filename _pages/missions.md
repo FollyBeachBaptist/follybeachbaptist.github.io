@@ -1,5 +1,4 @@
 ---
-redirect_from: /
 permalink: /missions/
 title: "Missions"
 ---
