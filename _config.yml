@@ -31,7 +31,7 @@ plugins:
 author:
   name: "Service Times"
   bio:
-    "<b>Sunday Service</b><br> 11:00am <br><b>Sunday School</b><br> 9:45am <br><b>Sunday
+    "<b>Sunday School</b><br> 9:45am <br><b>Sunday Morning</b><br> 11:00am <br><b>Sunday
     Evenings</b><br>See Calendar"
   links:
     - label: "Give Online"
