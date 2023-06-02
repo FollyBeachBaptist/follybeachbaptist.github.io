@@ -36,7 +36,7 @@ author:
   bio: "Sunday School 9:45am <br> Sunday Mornings 11:00am <br> Sunday Evenings - Check Our Schedule and Events Pages"
   links:
     - label: "Give Online"
-      icon: "fas fa-hand-holding-usd"
+      icon: "fad fa-hand-holding-usd"
       url: "https://secure.myvanco.com/L-Z0TS/home"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
