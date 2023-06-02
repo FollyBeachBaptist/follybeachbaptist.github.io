@@ -1,10 +1,10 @@
 title: Folly Beach Baptist Church
-subtitle: "/"At The Edge of America/""
+subtitle: "At The Edge of America"
 title_separator: "|"
 logo: "/assets/images/88x88.png"
 email:
 description: A small friendly and loving church situated in a beachfront community in Folly Beach, South Carolina.
-minimal_mistakes_skin:
+minimal_mistakes_skin: "contrast"
 search: false
 
 # Build settings
@@ -34,7 +34,7 @@ author:
       icon: "fas fa-hand-holding-usd fa-fw"
       url: "https://secure.myvanco.com/L-Z0TS/home"
     - label: "Facebook"
-      icon: "fa-solid fa-thumbs-up"
+      icon: "fa-brands fa-facebook"
       url: "https://www.facebook.com/FollyBeachBaptistChurch/"
 
 footer:
@@ -43,7 +43,7 @@ footer:
       icon: "fas fa-hand-holding-usd fa-fw"
       url: "https://secure.myvanco.com/L-Z0TS/home"
     - label: "Facebook"
-      icon: "fa-solid fa-thumbs-up"
+      icon: "fa-brands fa-facebook"
       url: "https://www.facebook.com/FollyBeachBaptistChurch/"
 
 defaults:
