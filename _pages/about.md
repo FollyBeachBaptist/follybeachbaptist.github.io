@@ -6,7 +6,7 @@ search: true
 ---
 
 <b>Senior Pastor | Rev. Clark Carter</b><br> <i class="fas fa-mobile-alt fa-fw">
-843-478-6779</i><br> <i class="far fa-envelope fa-fw"> pastor@follybeachbaptist.com</i>
+843-478-6779</i><br> <i class="far fa-envelope fa-fw">pastor@follybeachbaptist.com</i>
 
 <b>Pastor Emeritus/Music Director | Rev. Richard Summey</b><br> <i class="fas fa-mobile-alt fa-fw">
 843-793-8623</i><br> <i class="far fa-envelope fa-fw"> richard.summey@yahoo.com</i>
