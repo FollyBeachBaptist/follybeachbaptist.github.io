@@ -1,6 +1,6 @@
 ---
 title: "Weekly Schedule"
-permalink: /weeklyschedule/
+permalink: /calendar/
 author_profile: true
 ---
 This is a test
