@@ -1,6 +1,6 @@
 ---
-title: "About"
-permalink: /about/
+title: "Our Leaders"
+permalink: /ourleaders/
 author_profile: true
 search: true
 ---
