@@ -43,13 +43,13 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://secure.myvanco.com/L-Z0TS/home"
     - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-f"
+      icon: "fab fa-fw fa-facebook"
       url: "https://www.facebook.com/FollyBeachBaptistChurch/"
 
 footer:
   links:
     - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-f"
+      icon: "fab fa-fw fa-facebook"
       url: "https://www.facebook.com/FollyBeachBaptistChurch/"
      - label: "Give Online"
       icon: "fas fa-fw fa-link"
