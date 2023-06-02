@@ -1,17 +1,14 @@
-# Navigation bar
-logo: "/assets/images/88x88.png"
 title: Folly Beach Baptist Church
-  # subtitle: "At The Edge of America"
-search: false
-
-# Site settings
+# subtitle: "At The Edge of America"
 title_separator: "|"
-email: 
+logo: "/assets/images/88x88.png"
+email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-minimal_mistakes_skin: "dirt"
+minimal_mistakes_skin:
+search: false
 
 # Build settings
 markdown: kramdown
@@ -24,7 +21,7 @@ permalink: /
 include:
   - _pages
 
-# Plugins
+# Plugins (previously gems:)
 plugins:
   - jekyll-sitemap
   - jekyll-gist
@@ -32,7 +29,6 @@ plugins:
   - jekyll-include-cache
   - jekyll-redirect-from
 
-# Left sidebar
 author:
   location: "Folly Beach, SC"
   name   : "Service Times"
@@ -51,9 +47,6 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://www.facebook.com/FollyBeachBaptistChurch/"
-     - label: "Give Online"
-      icon: "fas fa-fw fa-link"
-      url: "https://secure.myvanco.com/L-Z0TS/home"
 
 defaults:
   # _posts
