@@ -17,7 +17,7 @@ search: true
 <b>Office Administrator | Donna Bolus</b><br> 843-588-9414 (office)
 
 <hr>
-<b> Audio Visual Team </b><br> Matt Beasley and Sandy Kisamore<br><br>
+<b> Audio Visual Team </b><br> Matt Beasley and Sandy Kisamore
 
 <b> Pianist</b><br> Debbie Summey
 
