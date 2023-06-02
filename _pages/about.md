@@ -2,6 +2,7 @@
 title: "About"
 permalink: /about/
 author_profile: true
+search: true
 ---
 
 <b>Rev. Clark Carter - Senior Pastor</b><br> 843-478-6779 (cell)<br>pastor@follybeachbaptist.com
