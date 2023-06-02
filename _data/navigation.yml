@@ -1,5 +1,7 @@
 main:
   - title: "Calendar"
     url: /calendar/
+  - title: "Missions"
+    url: /missions/
   - title: "About"
     url: /about/

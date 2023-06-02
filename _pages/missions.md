@@ -1,0 +1,58 @@
+---
+redirect_from: /
+permalink: /missions/
+title: "Missions"
+---
+
+YOUTH ON THE EDGE
+
+We are a Christian youth outreach group, grades 6-12. We meet every Tuesday evening at 6:30 in the
+Fellowship Hall to discuss Bible based Christian values and teachings. Food is provided. All
+churches are welcome to participate. Questions: contact Youth Pastor Billy Smith at 843-460-7737.
+
+OPERATION CHRISTMAS CHILD
+
+Operation Christmas Child demonstrated God's love in a tangible way. We pack shoebox gifts with
+toys, school supplies and hygiene items for boys and girls ages 2-14. We collect donations of items
+and money from March through October and then purchase and pack items into boxes to be distributed
+to children around the world. For additional information in contributing or volunteering, please
+contact Terry Smith at 843-534-6730. Check out this link for suggested gifts and prohibited items:
+https://www.samaritanspurse.org/operation-christmas-child/what-goes-in-my-shoebox-suggestions/
+
+SOUP AND SOUL MINISTRY
+
+Join us every Monday from October through May at noon in the Church Fellowship Hall for a hot bowl
+or soup and friendship. Access is through the church parking lot on Indian Ave.
+
+RECOVERY IN CHRIST
+
+If something has more control over you than you do over it, join us on Thursday evenings at 6:30 pm.
+We meet in the "39 room" for guidance, comfort and fellowship. Please use the front church entrance
+on Center Street. Contact Richard Summey at 843-793-8623 with any questions.
+
+VIRTUAL PRAYER MEETING
+
+Wednesday night Hour of Power is a virtual prayer evening that occurs every Wednesday at 6:30 on
+Facebook Live. You can text or private message Pastor Richard Summey before Wednesday with your
+prayer requests at 843-793-8623. Or you may leave a message with your prayer request at
+843-588-2309. Sign in on Wednesday to participate in praying for those with needs.
+https://www.facebook.com/FollyBeachBaptistChurch/
+
+SEAFARER'S MINISTRY
+
+The FBBC parishioners knit or crochet caps for the International Seafarer's Ministry as Christmas
+gifts. These gifts are provided to working men and women onboard ships at the Port of Charleston
+along with a gospel tract.
+
+WMU
+
+South Carolina WMU's vision statement is "empowering churches and believers to particpate in
+fulfilling the Great Commission." FBBC WMU provides various ministry activities thoughout the year.
+They are a multiple year holder of the Triple A award obtained by meeting a minimum of 37 objectives
+within the year.
+
+PANTRY CLOSET
+
+FBBC believes in ministering to the body as well as the soul. To this end, we have a Pantry Closet
+for those in need. Please contact Pastor Richard Summey at 843-793-8623 or the church office at
+843-588-9414 to schedule a time to visit the closet.
