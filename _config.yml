@@ -38,7 +38,7 @@ author:
       icon: "fas fa-hand-holding-usd fa-fw"
       url: "https://secure.myvanco.com/L-Z0TS/home"
     - label: "Facebook"
-      icon: "fab fa-facebook"
+      icon: "fab fa-facebook fa-fw"
       url: "https://www.facebook.com/FollyBeachBaptistChurch/"
 
 footer:
@@ -47,7 +47,7 @@ footer:
       icon: "fas fa-hand-holding-usd fa-fw"
       url: "https://secure.myvanco.com/L-Z0TS/home"
     - label: "Facebook"
-      icon: "fab fa-facebook"
+      icon: "fab fa-facebook fa-fw"
       url: "https://www.facebook.com/FollyBeachBaptistChurch/"
 
 defaults:
