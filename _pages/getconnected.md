@@ -26,10 +26,11 @@ use the front church entrance on Center Street. Contact Richard Summey at 843-79
 questions.
 
 <b>Virtual Prayer Meeting</b><br> Wednesday night Hour of Power is a virtual prayer evening that
-occurs every Wednesday at 6:30 on [Facebook](https://www.facebook.com/FollyBeachBaptistChurch/)
-Live. You can text or private message Pastor Richard Summey before Wednesday with your prayer
-requests at 843-793-8623. Or you may leave a message with your prayer request at 843-588-2309. Sign
-in on Wednesday to participate in praying for those with needs.
+occurs every Wednesday at 6:30 on
+[Facebook Live](https://www.facebook.com/FollyBeachBaptistChurch/). You can text or private message
+Pastor Richard Summey before Wednesday with your prayer requests at 843-793-8623. Or you may leave a
+message with your prayer request at 843-588-2309. Sign in on Wednesday to participate in praying for
+those with needs.
 
 <b>Seafarer's Ministry</b><br> The FBBC parishioners knit or crochet caps for the International
 Seafarer's Ministry as Christmas gifts. These gifts are provided to working men and women onboard
