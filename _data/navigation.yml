@@ -1,7 +1,7 @@
 main:
   - title: "Calendar"
     url: /calendar/
-  - title: "Missions"
-    url: /missions/
+  - title: "Get Connected"
+    url: /getconnected/
   - title: "Our Leaders"
     url: /ourleaders/
