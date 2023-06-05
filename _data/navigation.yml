@@ -1,6 +1,6 @@
 main:
-  - title: "Calendar"
-    url: /calendar/
+  - title: "Weekly Schedule"
+    url: /weeklyschedule/
   - title: "Get Connected"
     url: /getconnected/
   - title: "Our Leaders"
