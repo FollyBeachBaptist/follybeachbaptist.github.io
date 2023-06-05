@@ -7,27 +7,7 @@ description:
   A small friendly and loving church situated in a beachfront community in Folly Beach, South
   Carolina.
 
-# Build settings
-markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin:
-search: false
-whitelist:
-  - jekyll-redirect-from
-
-# Outputting
-permalink: /
-include:
-  - _pages
-
-# Plugins (previously gems:)
-plugins:
-  - jekyll-sitemap
-  - jekyll-gist
-  - jemoji
-  - jekyll-include-cache
-  - jekyll-redirect-from
-
+# Left Sidebar
 author:
   name: "Service Times"
   bio:
@@ -44,6 +24,7 @@ author:
       icon: "fab fa-facebook fa-fw"
       url: "https://www.facebook.com/FollyBeachBaptistChurch/"
 
+# Bottom Bar
 footer:
   links:
     - label: "Give Online"
@@ -55,7 +36,14 @@ footer:
     - label: "Facebook"
       icon: "fab fa-facebook fa-fw"
       url: "https://www.facebook.com/FollyBeachBaptistChurch/"
-
+      
+# Build settings
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin:
+search: false
+whitelist:
+  - jekyll-redirect-from
 defaults:
   # _pages
   - scope:
@@ -64,3 +52,12 @@ defaults:
     values:
       layout: single
       author_profile: true
+permalink: /
+include:
+  - _pages
+plugins:
+  - jekyll-sitemap
+  - jekyll-gist
+  - jemoji
+  - jekyll-include-cache
+  - jekyll-redirect-from
