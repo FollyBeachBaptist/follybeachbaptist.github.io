@@ -1,21 +1,19 @@
 title: Folly Beach Baptist Church
 subtitle: "At The Edge of America"
-title_separator: "|"
 logo: "/assets/images/88x88.png"
-email:
 description:
   A small friendly and loving church situated in a beachfront community in Folly Beach, South
   Carolina.
 
 # Left Sidebar
 author:
-  name: "Service Times"
   bio:
-    "<b>Sunday School</b><br> 9:45am <br><b>Sunday Morning</b><br> 11:00am <br><b>Sunday
+    "<h1>Service Times<h1><br><b>Sunday School</b><br> 9:45am <br><b>Sunday Morning</b><br> 11:00am <br><b>Sunday
     Evenings</b><br>See Calendar"
   links:
     - label: "77 Center St, Folly Beach, SC"
       icon: "fas fa-fw fa-map-marker-alt"
+      url: ""
     - label: "Give Online"
       icon: "fas fa-hand-holding-usd fa-fw"
       url: "https://secure.myvanco.com/L-Z0TS/home"
@@ -40,6 +38,7 @@ footer:
       url: "https://www.facebook.com/FollyBeachBaptistChurch/"
 
 # Build settings
+title_separator: "|"
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin:
