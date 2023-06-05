@@ -1,6 +1,4 @@
 ---
-redirect_from: /
-permalink: /welcome/
 header:
   image: /assets/images/welcome.jpg
 title: "Welcome"
