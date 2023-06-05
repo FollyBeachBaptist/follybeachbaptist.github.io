@@ -6,12 +6,12 @@ email:
 description:
   A small friendly and loving church situated in a beachfront community in Folly Beach, South
   Carolina.
-minimal_mistakes_skin:
-search: false
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: "contrast"
+search: false
 whitelist:
   - jekyll-redirect-from
 
