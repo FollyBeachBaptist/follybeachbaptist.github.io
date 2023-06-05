@@ -4,17 +4,12 @@ permalink: /calendar/
 author_profile: true
 ---
 
-<b>Sunday, May 28</b><br>
+<b>Sunday, May 28</b><br> 9:45 am Sunday School <br> 11:00 am Worship Service<br>
 
-9:45 am Sunday School <br> 11:00 am Worship Service<br>
+<b>Monday, May 29 (Memorial Day)</b><br> 7:15 pm Men's Bible Study<br>
 
-<b>Monday, May 29 (Memorial Day)</b><br>
-
-7:15 pm Men's Bible Study<br>
-
-<b>Tuesday, May 30</b><br>
-
-9:30 am 6:30 pm Girlfriend's Bible Study<br> 6:30 pm "Youth on the Edge" Bible Study<br>
+<b>Tuesday, May 30</b><br> 9:30 am 6:30 pm Girlfriend's Bible Study<br> 6:30 pm "Youth on the Edge"
+Bible Study<br>
 
 <b>Wednesday, May 31</b><br> 6:30 pm Virtual Prayer Meeting (Folly Beach Baptist Facebook)<br> 7:30
 pm Choir Practice<br>
