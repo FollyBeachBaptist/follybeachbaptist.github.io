@@ -1,7 +1,7 @@
 ---
 redirect_from: /
 permalink: /welcome/
-overlay_image: /assets/images/88x88.png
+overlay_image: https://unsplash.com/photos/8LKqjwhK8UI
 title: "Welcome"
 ---
 
