@@ -1,4 +1,5 @@
 ---
+author_profile: true
 header:
   image: /assets/images/welcome.jpg
 title: "Welcome"
