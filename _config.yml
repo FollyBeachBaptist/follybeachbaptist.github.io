@@ -14,6 +14,8 @@ author:
     "<b>Sunday School</b><br> 9:45am <br><b>Sunday Morning</b><br> 11:00am <br><b>Sunday
     Evenings</b><br>See Calendar"
   links:
+    - label: "77 Center St, Folly Beach, SC"
+      icon: "fas fa-fw fa-map-marker-alt"
     - label: "Give Online"
       icon: "fas fa-hand-holding-usd fa-fw"
       url: "https://secure.myvanco.com/L-Z0TS/home"
@@ -36,7 +38,7 @@ footer:
     - label: "Facebook"
       icon: "fab fa-facebook fa-fw"
       url: "https://www.facebook.com/FollyBeachBaptistChurch/"
-      
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
