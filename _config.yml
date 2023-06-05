@@ -10,7 +10,7 @@ description:
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: "air"
+minimal_mistakes_skin:
 search: false
 whitelist:
   - jekyll-redirect-from
