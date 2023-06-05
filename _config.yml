@@ -11,9 +11,6 @@ author:
     "<h3>Service Times</h3><b>Sunday School</b><br> 9:45am <br><b>Sunday Morning</b><br> 11:00am <br><b>Sunday
     Evenings</b><br>See Calendar"
   links:
-    - label: "77 Center St, Folly Beach, SC"
-      icon: "fas fa-fw fa-map-marker-alt"
-      url: "geo:38.62464092991612,-90.18476128578186"
     - label: "Give Online"
       icon: "fas fa-hand-holding-usd fa-fw"
       url: "https://secure.myvanco.com/L-Z0TS/home"
