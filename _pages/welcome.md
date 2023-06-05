@@ -2,7 +2,7 @@
 redirect_from: /
 permalink: /welcome/
 header:
-  image: https://unsplash.com/photos/w6zTRsH3xqM
+  image: /assets/images/welcome.jpg
 title: "Welcome"
 ---
 
