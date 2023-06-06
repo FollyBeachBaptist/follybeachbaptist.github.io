@@ -27,8 +27,6 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin:
 search: false
-whitelist:
-  - jekyll-redirect-from
 defaults:
   # _pages
   - scope:
@@ -45,4 +43,3 @@ plugins:
   - jekyll-gist
   - jemoji
   - jekyll-include-cache
-  - jekyll-redirect-from
