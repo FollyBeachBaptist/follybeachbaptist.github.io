@@ -25,7 +25,7 @@ author:
 title_separator: "|"
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin:
+minimal_mistakes_skin: "dirt"
 search: false
 defaults:
   # _pages
