@@ -1,7 +1,6 @@
 ---
-
-title: "Our Leaders" permalink: /ourleaders/
-
+title: "Our Leaders"
+permalink: /ourleaders/
 ---
 
 <b>Senior Pastor | Rev. Clark Carter</b><br> <i class="fas fa-mobile-alt fa-fw"></i>
