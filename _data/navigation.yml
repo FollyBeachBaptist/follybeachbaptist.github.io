@@ -1,3 +1,4 @@
+# Navigation Bar (add, edit, or remove links)
 main:
   - title: "Weekly Schedule"
     url: /weeklyschedule/
