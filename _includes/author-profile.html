@@ -23,6 +23,8 @@
   </div>
 
   <div class="author__urls-wrapper">
+    <button class="btn btn--primary btn--large">{{ site.data.ui-text[site.locale].
+      _label | remove: ":" | default: "Connect With Us" }}</button>
     <ul class="author__urls social-icons">
       {% if author.location %}
         <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
