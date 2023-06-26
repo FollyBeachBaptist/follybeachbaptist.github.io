@@ -1,6 +1,6 @@
 ---
-permalink: /getconnected/
-title: "Get Connected"
+permalink: /outreach/
+title: "Outreach"
 ---
 
 <b>Youth On The Edge</b><br> We are a Christian youth outreach group, grades 6-12. We meet every
