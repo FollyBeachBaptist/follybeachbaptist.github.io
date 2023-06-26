@@ -23,3 +23,10 @@ richard.summey@yahoo.com
 <b> Pianist</b><br> Debbie Summey
 
 <b> Treasurer</b><br> Marie Schultz
+
+<hr>
+<b>Deacon of the Week</b>
+<br> May 7 Rocky Burke<br> 
+May 14 Robert Follin<br> 
+May 21 Jerry Ulmer<br>
+May 28 Marty Wright<br>

@@ -18,6 +18,10 @@ pm Choir Practice<br>
 <b>Sunday, June 4</b><br> 9:45 am Sunday School<br> 11:00 am Worship Service<br> 6:00 pm Potluck
 Dinner<br>
 
-<hr>
-<b>Deacon of the Week</b><br> May 7 Rocky Burke<br> May 14 Robert Follin<br> May 21 Jerry Ulmer<br>
-May 28 Marty Wright<br>
+<h1>Special Events</h1>
+<b>Patriotic Musical</b><br>
+"This Is My Country"<br>
+by Russell Mauldin<br>
+11:00 am on July 2nd<br><br>
+
+<b>Vacation Bible School</b><br> "Pets Unleashed"<br> July 21st-23rd<br> 6:00 pm to 8:45 pm<br>
