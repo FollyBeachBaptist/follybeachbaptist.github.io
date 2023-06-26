@@ -19,7 +19,6 @@ In other words, we seek to "love the Lord our God with all our hearts, and to lo
 ourselves." After the first visit, you are FBBC family!
 
 Please take the time to navigate through the different pages of our site to see what is offered. It
-would be our privilege to minister to you and your family right where you are. And follow us on
-Facebook at: Folly Beach Baptist Church.
+would be our privilege to minister to you and your family right where you are.
 
 Love in Christ, Pastor Richard Summey
