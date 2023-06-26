@@ -24,6 +24,7 @@ richard.summey@yahoo.com
 
 <b> Treasurer</b><br> Marie Schultz
 
+<hr>
 <h1>Deacon of the Week</h1>
 <b>May 7</b> Rocky Burke<br> 
 <b>May 14</b> Robert Follin<br> 
