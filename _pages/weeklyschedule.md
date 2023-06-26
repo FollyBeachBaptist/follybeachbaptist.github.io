@@ -22,6 +22,6 @@ Dinner<br>
 <b>Patriotic Musical</b><br>
 "This Is My Country"<br>
 by Russell Mauldin<br>
-11:00 am on July 2nd<br><br>
+11:00 am on July 2nd<br>
 
 <b>Vacation Bible School</b><br> "Pets Unleashed"<br> July 21st-23rd<br> 6:00 pm to 8:45 pm<br>
