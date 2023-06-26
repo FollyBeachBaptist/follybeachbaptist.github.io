@@ -18,6 +18,7 @@ pm Choir Practice<br>
 <b>Sunday, June 4</b><br> 9:45 am Sunday School<br> 11:00 am Worship Service<br> 6:00 pm Potluck
 Dinner<br>
 
+<hr>
 <h1>Special Events</h1>
 <b>Patriotic Musical</b><br>
 "This Is My Country"<br>
