@@ -1,12 +1,7 @@
 ---
-permalink: /getconnected/
+permalink: /outreach/
 title: "Get Connected"
 ---
-
-<b>Youth On The Edge</b><br> We are a Christian youth outreach group, grades 6-12. We meet every
-Tuesday evening at 6:30 in the Fellowship Hall to discuss Bible based Christian values and
-teachings. Food is provided. All churches are welcome to participate. If you have any questions contact Youth
-Pastor Billy Smith at 843-460-7737. Check us out on [Facebook](https://www.facebook.com/1Timothyfourtwelve).
 
 <b>Operation Christmas Child</b><br> Operation Christmas Child demonstrated God's love in a tangible
 way. We pack shoebox gifts with toys, school supplies and hygiene items for boys and girls ages

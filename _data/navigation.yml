@@ -2,9 +2,9 @@
 main:
   - title: "Calendar"
     url: /calendar/
-  - title: "Youth"
-    url: /getconnected/
   - title: "Outreach"
-    url: /getconnected/
+    url: /outreach/
+  - title: "Youth"
+    url: /youth/
   - title: "Our Leaders"
     url: /ourleaders/
