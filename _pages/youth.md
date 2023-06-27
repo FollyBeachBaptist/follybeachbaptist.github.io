@@ -1,5 +1,7 @@
 ---
 permalink: /youth/
+header:
+  image: /assets/images/youth.jpg
 title: "Youth On The Edge"
 ---
 
