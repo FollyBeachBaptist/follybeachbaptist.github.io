@@ -10,5 +10,4 @@ Fellowship Hall to discuss Bible based Christian values and teachings. Food is p
 churches are welcome to participate! If you have any questions [contact](ourleaders.md) Youth Pastor
 Billy Smith.
 
-<i class="fab fa-facebook"></i>Check us out on
-[Facebook](https://www.facebook.com/1Timothyfourtwelve)!
+[<i class="fab fa-facebook"></i>](https://www.facebook.com/1Timothyfourtwelve)
