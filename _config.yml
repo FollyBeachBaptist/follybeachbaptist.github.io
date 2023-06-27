@@ -12,7 +12,7 @@ description:
 author:
   bio:
     "<h3>Service Times</h3><b>Sunday School</b><br> 9:45am <br><b>Sunday Morning</b><br> 11:00am
-    <br><b>Sunday Evenings</b><br>See [Schedule](/weeklyschedule)"
+    <br><b>Sunday Evenings</b><br>See [Calendar](/calendar)"
   links:
     - label: "Give Online"
       icon: "fas fa-hand-holding-usd fa-fw"
