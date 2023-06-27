@@ -1,6 +1,6 @@
 ---
 permalink: /outreach/
-title: "Mission"
+title: "Missions"
 author: default
 ---
 

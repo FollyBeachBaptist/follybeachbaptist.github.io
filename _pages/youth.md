@@ -13,4 +13,4 @@ welcomes individuals at any stage of their faith journey. All our teachings are 
 Bible. Our ultimate goal is to inspire our youth with the understanding that being a follower of
 Christ entails advancing a personal relationship with Him through daily prayer and devotion. We meet
 each week with dinner at 6:30pm in the Fellowship Hall. If you have any questions feel free to
-contact [Youth Pastor Billy Smith](843-460-7737).
+[contact](/_pages/ourleaders.md) Youth Pastor Billy Smith.
