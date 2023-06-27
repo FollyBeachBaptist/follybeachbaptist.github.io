@@ -16,9 +16,7 @@ default:
 
 # For youth pages
 youth:
-  bio:
-    "<h3>Meeting Times</h3><b>Tuesday Nights</b><br>6:30pm<br><b>Missions and Outreach </b><br>See
-    [Calendar](/calendar)<br><b>Camp and Retreats</b><br>See [Calendar](/calendar)"
+  bio: "<h3>Meeting Times</h3><b>Tuesday Nights</b><br>6:30pm"
   links:
     - label: "Facebook"
       icon: "fab fa-facebook fa-fw"

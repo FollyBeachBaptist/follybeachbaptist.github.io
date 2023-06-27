@@ -12,5 +12,6 @@ light within it. We are committed to creating an environment that deeply honors 
 individuals at any stage of their faith journey. All our teachings are firmly rooted in the Bible.
 Our ultimate goal is to inspire our youth with the understanding that being a follower of Christ
 entails advancing a personal relationship with Him through daily prayer and devotion. We meet each
-week with dinner in the Fellowship Hall. If you have any questions feel free to
-[contact](/_pages/ourleaders.md) Youth Pastor Billy Smith.
+week with dinner in the Fellowship Hall. We are also involved in missions, outreach, camps and
+retreats! If you have any questions feel free to [contact](/_pages/ourleaders.md) Youth Pastor Billy
+Smith.
