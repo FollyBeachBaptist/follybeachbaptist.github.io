@@ -6,7 +6,11 @@ header:
 title: "Youth On The Edge"
 ---
 
-We are a Christian youth outreach group, grades 6-12. We meet every Tuesday evening at 6:30 in the
-Fellowship Hall to discuss Bible based Christian values and teachings. Food is provided and all
-churches are welcome to participate! If you have any questions [contact](ourleaders.md) Youth Pastor
-Billy Smith.
+At Youth on the Edge, our purpose is to empower the youth of Folly Beach Baptist Church, as well as
+anyone who walks through our doors, to confidently navigate the challenges of the world and shine as
+a beacon of light within it. We are committed to creating an environment that deeply honors God and
+welcomes individuals at any stage of their faith journey. All our teachings are firmly rooted in the
+Bible. Our ultimate goal is to inspire our youth with the understanding that being a follower of
+Christ entails advancing a personal relationship with Him through daily prayer and devotion. We meet
+each week with dinner at 6:30pm in the Fellowship Hall. If you have any questions feel free to
+contact [Youth Pastor Billy Smith](843-460-7737).
