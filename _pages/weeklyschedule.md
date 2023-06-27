@@ -1,8 +1,6 @@
 ---
 title: "Weekly Schedule"
 permalink: /calendar/
-header:
-  image: /assets/images/outreach.jpg
 author: default
 ---
 

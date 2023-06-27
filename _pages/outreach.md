@@ -1,6 +1,8 @@
 ---
 permalink: /outreach/
 title: "Missions"
+header:
+  image: /assets/images/outreach.jpg
 author: default
 ---
 
