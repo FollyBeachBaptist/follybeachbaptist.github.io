@@ -26,7 +26,7 @@ richard.summey@yahoo.com
 
 <hr>
 <h1>Deacon of the Week</h1>
-<b>May 7&nbsp</b> Rocky Burke<br> 
+<b>May 7 &nbsp</b> Rocky Burke<br> 
 <b>May 14</b> Robert Follin<br> 
 <b>May 21</b> Jerry Ulmer<br>
 <b>May 28</b> Marty Wright<br>
