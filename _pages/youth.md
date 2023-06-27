@@ -10,5 +10,3 @@ We are a Christian youth outreach group, grades 6-12. We meet every Tuesday even
 Fellowship Hall to discuss Bible based Christian values and teachings. Food is provided and all
 churches are welcome to participate! If you have any questions [contact](ourleaders.md) Youth Pastor
 Billy Smith.
-
-[<i class="fab fa-facebook"></i>](https://www.facebook.com/1Timothyfourtwelve)
