@@ -1,6 +1,7 @@
 ---
 permalink: /outreach/
 title: "Get Connected"
+author: default
 ---
 
 <b>Operation Christmas Child</b><br> Operation Christmas Child demonstrated God's love in a tangible

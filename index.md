@@ -1,5 +1,6 @@
 ---
 author_profile: true
+author: default
 layout: single
 header:
   image: /assets/images/welcome.jpg

@@ -1,6 +1,7 @@
 ---
 title: "Weekly Schedule"
 permalink: /calendar/
+author: default
 ---
 
 <b>Sunday, May 28</b><br> 9:45 am Sunday School <br> 11:00 am Worship Service<br>

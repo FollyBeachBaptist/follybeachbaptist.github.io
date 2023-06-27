@@ -8,22 +8,6 @@ description:
   A small friendly and loving church situated in a beachfront community in Folly Beach, South
   Carolina.
 
-# Left Sidebar
-author:
-  bio:
-    "<h3>Service Times</h3><b>Sunday School</b><br> 9:45am <br><b>Sunday Morning</b><br> 11:00am
-    <br><b>Sunday Evenings</b><br>See [Calendar](/calendar)"
-  links:
-    - label: "Give Online"
-      icon: "fas fa-hand-holding-usd fa-fw"
-      url: "https://secure.myvanco.com/L-Z0TS/home"
-    - label: "Email Us"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:info@follybeachbaptist.com "
-    - label: "Facebook"
-      icon: "fab fa-facebook fa-fw"
-      url: "https://www.facebook.com/FollyBeachBaptistChurch/"
-
 # Build settings
 title_separator: "|"
 markdown: kramdown
