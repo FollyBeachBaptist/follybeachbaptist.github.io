@@ -4,8 +4,8 @@ author: default
 layout: single
 header:
   image: /assets/images/welcome.jpg
+  og_image: /assets/images/preview.jpg
 title: "Welcome"
-og_image: /assets/images/preview.jpg
 ---
 
 Thank you for visiting our site.
