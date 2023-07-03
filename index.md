@@ -7,6 +7,8 @@ header:
 title: "Welcome"
 ---
 
+<meta property="og:image" content="preview.jpg" />
+
 Thank you for visiting our site.
 
 Folly Beach Baptist Church is a fellowship of committed believers with a heart for caring and
