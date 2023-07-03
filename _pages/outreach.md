@@ -3,6 +3,7 @@ permalink: /outreach/
 title: "Missions"
 header:
   image: /assets/images/outreach.jpg
+  og_image: /assets/images/preview.jpg
 author: default
 ---
 

@@ -2,6 +2,8 @@
 title: "Our Leaders"
 permalink: /ourleaders/
 author: default
+header:
+  og_image: /assets/images/preview.jpg
 ---
 
 <b>Senior Pastor | Rev. Clark Carter</b><br> <i class="fas fa-mobile-alt fa-fw"></i>

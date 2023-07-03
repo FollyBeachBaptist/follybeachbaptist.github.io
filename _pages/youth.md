@@ -3,6 +3,7 @@ permalink: /youth/
 author: youth
 header:
   image: /assets/images/youth.jpg
+  og_image: /assets/images/preview.jpg
 title: "Youth On The Edge"
 ---
 
