@@ -5,9 +5,8 @@ layout: single
 header:
   image: /assets/images/welcome.jpg
 title: "Welcome"
+overlay_image: /assets/images/preview.jpg
 ---
-
-<meta property="og:image" content="preview.jpg" />
 
 Thank you for visiting our site.
 
