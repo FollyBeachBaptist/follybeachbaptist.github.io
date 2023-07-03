@@ -6,6 +6,8 @@ header:
 title: "Youth On The Edge"
 ---
 
+<meta property="og:image" content="preview_image.jpg" />
+
 Our purpose is to empower the youth of Folly Beach Baptist Church, as well as anyone who walks
 through our doors, to confidently navigate the challenges of the world and shine as a beacon of
 light within it. We are committed to creating an environment that deeply honors God and welcomes
