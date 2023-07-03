@@ -5,7 +5,7 @@ layout: single
 header:
   image: /assets/images/welcome.jpg
 title: "Welcome"
-overlay_image: /assets/images/preview.jpg
+og_image: /assets/images/preview.jpg
 ---
 
 Thank you for visiting our site.
