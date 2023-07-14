@@ -1,7 +1,7 @@
 # For main church pages
 default:
   bio:
-    "<h3>Service Times</h3><b>Sunday School</b><br> 9:45am <br><b>Sunday Mornings</b><br> 11:00am
+    "<h3>Service Times</h3><b>Sunday School</b><br> 9:45am <br><b>Sunday Mornings</b><br> 11:00am or [Virtual](https://www.facebook.com/FollyBeachBaptistChurch/)
     <br><b>Sunday Evenings</b><br>See [Calendar](/calendar)"
   links:
     - label: "Give Online"
