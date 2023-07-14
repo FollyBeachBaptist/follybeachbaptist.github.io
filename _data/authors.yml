@@ -1,7 +1,7 @@
 # For main church pages
 default:
   bio:
-    "<h3>Service Times</h3><b>Sunday School</b><br> 9:45am <br><b>Sunday Mornings</b><br> 11:00am or [Virtual](https://www.facebook.com/FollyBeachBaptistChurch/)
+    "<h3>Service Times</h3><b>Sunday School</b><br> 9:45am <br><b>Sunday Mornings</b><br> 11:00am
     <br><b>Sunday Evenings</b><br>See [Calendar](/calendar)"
   links:
     - label: "Give Online"
@@ -12,6 +12,9 @@ default:
       url: "mailto:info@follybeachbaptist.com "
     - label: "Facebook"
       icon: "fab fa-facebook fa-fw"
+      url: "https://www.facebook.com/FollyBeachBaptistChurch/"
+    - label: "Watch Service Live"
+      icon: "fas fa-laptop-house fa-fw"
       url: "https://www.facebook.com/FollyBeachBaptistChurch/"
 
 # For youth pages
