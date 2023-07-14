@@ -8,16 +8,14 @@ header:
 title: "Welcome"
 ---
 
-Thank you for visiting our site.
+<p>Thank you for visiting our site.
 
 Welcome to Folly Beach Baptist Church! We are so excited that you are here. We are a fellowship of
 Christ followers who are committed to:
 
-**Reaching** Everyone with the Gospel (Romans 1:16)
-
-**Raising** Believers in the Scripture (2 Timothy 3:16-17)
-
-**Releasing** the Church to Change the World (Matthew 28:18-20)
+<b>Reaching</b> Everyone with the Gospel (Romans 1:16)<br>
+<b>Raising</b> Believers in the Scripture (2 Timothy 3:16-17)<br>
+<b>Releasing</b> the Church to Change the World (Matthew 28:18-20)<br>
 
 Folly Beach is known as the _Edge of America_. However, the message of the Gospel does not stop on
 the shores of the Atlantic Ocean or the doors of the church. Our motto is, _From the Edge of America
@@ -31,6 +29,5 @@ you can watch us online on Facebook at Folly Beach Baptist Church.
 
 We hope to see you soon!
 
-He Is Able,
-
-Pastor Clark Carter
+He Is Able,<br>
+Pastor Clark Carter</p>
