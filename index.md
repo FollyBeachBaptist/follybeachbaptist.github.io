@@ -8,7 +8,7 @@ header:
 title: "Welcome"
 ---
 
-<p>Thank you for visiting our site.
+Thank you for visiting our site.
 
 Welcome to Folly Beach Baptist Church! We are so excited that you are here. We are a fellowship of
 Christ followers who are committed to:
@@ -30,4 +30,4 @@ you can watch us online on Facebook at Folly Beach Baptist Church.
 We hope to see you soon!
 
 He Is Able,<br>
-Pastor Clark Carter</p>
+Pastor Clark Carter
